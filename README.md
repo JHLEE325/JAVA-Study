@@ -36,17 +36,17 @@
 | 주차   | 주제              | 링크                                                          |
 | ---- | --------------- | ----------------------------------------------------------- |
 | 1주차  | JVM이란 무엇인가      | [이슈 #1](https://github.com/whiteship/live-study/issues/1)   |
-| 2주차  | 자바 컴파일과 실행 과정   | [이슈 #2](https://github.com/whiteship/live-study/issues/2)   |
-| 3주차  | 바이트코드와 JIT 컴파일러 | [이슈 #3](https://github.com/whiteship/live-study/issues/3)   |
-| 4주차  | JVM의 구성 요소      | [이슈 #4](https://github.com/whiteship/live-study/issues/4)   |
-| 5주차  | JDK와 JRE의 차이    | [이슈 #5](https://github.com/whiteship/live-study/issues/5)   |
-| 6주차  | 클래스 로더          | [이슈 #6](https://github.com/whiteship/live-study/issues/6)   |
-| 7주차  | JVM 메모리 구조      | [이슈 #7](https://github.com/whiteship/live-study/issues/7)   |
-| 8주차  | 가비지 컬렉션         | [이슈 #8](https://github.com/whiteship/live-study/issues/8)   |
+| 2주차  | 자바 데이터 타입/변수/배열   | [이슈 #2](https://github.com/whiteship/live-study/issues/2)   |
+| 3주차  | 연산자 | [이슈 #3](https://github.com/whiteship/live-study/issues/3)   |
+| 4주차  | 제어문      | [이슈 #4](https://github.com/whiteship/live-study/issues/4)   |
+| 5주차  | 클래스    | [이슈 #5](https://github.com/whiteship/live-study/issues/5)   |
+| 6주차  | 상속          | [이슈 #6](https://github.com/whiteship/live-study/issues/6)   |
+| 7주차  | 패키지      | [이슈 #7](https://github.com/whiteship/live-study/issues/7)   |
+| 8주차  | 인터페이스         | [이슈 #8](https://github.com/whiteship/live-study/issues/8)   |
 | 9주차  | 예외 처리           | [이슈 #9](https://github.com/whiteship/live-study/issues/9)   |
-| 10주차 | 제네릭             | [이슈 #10](https://github.com/whiteship/live-study/issues/10) |
+| 10주차 | 멀티스레드 프로그래밍             | [이슈 #10](https://github.com/whiteship/live-study/issues/10) |
 | 11주차 | Enum            | [이슈 #11](https://github.com/whiteship/live-study/issues/11) |
 | 12주차 | 애노테이션           | [이슈 #12](https://github.com/whiteship/live-study/issues/12) |
 | 13주차 | I/O             | [이슈 #13](https://github.com/whiteship/live-study/issues/13) |
-| 14주차 | 스레드             | [이슈 #14](https://github.com/whiteship/live-study/issues/14) |
-| 15주차 | 람다와 스트림         | [이슈 #15](https://github.com/whiteship/live-study/issues/15) |
+| 14주차 | 제네릭             | [이슈 #14](https://github.com/whiteship/live-study/issues/14) |
+| 15주차 | 람다식         | [이슈 #15](https://github.com/whiteship/live-study/issues/15) |
